@@ -171,6 +171,7 @@ def create_ui():
 
 # Call the function to create the UI
 create_ui()
+print "hello"
 
 #add to kaboom project,
 # add a sprite for the bullets
